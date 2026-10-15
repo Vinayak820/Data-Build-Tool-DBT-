@@ -1,6 +1,5 @@
 {{config(
-    materialized='table',
-    schema='bronze'
+    materialized='table'
 )}}
 
 SELECT
