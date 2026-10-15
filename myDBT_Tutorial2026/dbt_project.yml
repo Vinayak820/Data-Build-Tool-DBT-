@@ -41,3 +41,9 @@ models:
     gold:
       +materialized: view
       +schema: gold
+
+seeds:
+  myDBT_Tutorial2026:
+    # Config indicated by + and applies to all files under seeds/
+    +quote_columns: true
+    +schema: bronze

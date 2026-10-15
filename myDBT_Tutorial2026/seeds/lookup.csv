@@ -1,0 +1,16 @@
+store_code,store_name,region
+S001,MegaMart Manhattan,East
+S002,MegaMart Brooklyn,East
+S003,MegaMart Austin,South
+S004,MegaMart San Jose,West
+S005,MegaMart Toronto,North
+S006,MegaMart Chicago,Central
+S007,MegaMart Seattle,West
+S008,MegaMart Miami,South
+S009,MegaMart Boston,East
+S010,MegaMart Denver,Central
+S011,MegaMart Houston,South
+S012,MegaMart Los Angeles,West
+S013,MegaMart Philadelphia,East
+S014,MegaMart Dallas,South
+S015,MegaMart Phoenix,West
